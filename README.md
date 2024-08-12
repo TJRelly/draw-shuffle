@@ -20,5 +20,3 @@ Enhance the application by adding a shuffle feature:
 - **Card Removal**: All cards currently displayed on the screen should be removed when the shuffle operation begins.
 
 ---
-
-# draw-shuffle
