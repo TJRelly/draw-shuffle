@@ -1,0 +1,20 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <img
+      alt="card"
+      src="https://deckofcardsapi.com/static/img/back.png"
+    />
+    <button>
+      Draw
+    </button>
+    <button>
+      Shuffle
+    </button>
+  </div>
+</DocumentFragment>
+`;
